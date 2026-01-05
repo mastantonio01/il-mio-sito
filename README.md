@@ -1,2 +1,2 @@
 # il-mio-sito
-il mio primo sito personale
+Ciao mi chiamo Antonio e sto imparando GitHub
